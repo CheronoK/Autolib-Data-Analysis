@@ -13,11 +13,13 @@ Changed the names of the columns to lower case to make work easier while writing
 New columns needed for he analysis were constructed.
 The new cleaned data was also exported as a csv file.
 # Analysis
-After keenly analysing data and answering given research questions, analysis was made and results is given in the python notebook. The notebook can be found here -
+After keenly analysing data and answering given research questions, analysis was made and results is given in the python notebook. The notebook can be found here - https://drive.google.com/open?id=1GIvvaBl5NF1EHkr1RyiXUr6TGue8Ybxh
 # Built with
 The data was provided by the company and it can be found here - http://bit.ly/autolib_dataset
 This data was loaded, cleaned and analysed on google colaboratory.
 # Contributing
-The data analysis was done by Martha Kibet as an assignment project for Moringa School
+The data analysis was done by Martha Kibet as an assignment project for Moringa School week 4 IP.
 # License
-The project is licensed by 
+The project is licensed by GNU General Public License. See the LICENSE.md for details.
+# Acknowledgements
+The data source for providing data
