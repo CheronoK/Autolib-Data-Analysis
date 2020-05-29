@@ -20,6 +20,6 @@ This data was loaded, cleaned and analysed on google colaboratory.
 # Contributing
 The data analysis was done by Martha Kibet as an assignment project for Moringa School week 4 IP.
 # License
-The project is licensed by GNU General Public License. See the LICENSE.md for details.
+The project is licensed by GNU General Public License. See https://github.com/CheronoK/Independent-Project/blob/master/LICENSE for details.
 # Acknowledgements
 The data source for providing data
